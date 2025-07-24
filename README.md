@@ -3,6 +3,10 @@
 
 ***The original local WayStation MCP server has been deprecated in favor of the new remote MCP server hosted at https://waystation.ai/mcp. Please refer to the new WayStation MCP server documentation here***
 
+<a href="https://glama.ai/mcp/servers/@waystation-ai/mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@waystation-ai/mcp/badge" alt="WayStation Server MCP server" />
+</a>
+
 ## Overview
 WayStation MCP server is a universal remote MCP server that seamlessly connects Claude (and other clients) to a broad range of productivity tools, including Notion, Monday, AirTable, etc.
 
