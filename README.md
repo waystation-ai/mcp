@@ -3,6 +3,10 @@
 
 ***The original local WayStation MCP server has been deprecated in favor of the new remote MCP server hosted at https://waystation.ai/mcp. Please refer to the new WayStation MCP server documentation here***
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/waystation-ai-mcp).
+
 ## Overview
 WayStation MCP server is a universal remote MCP server that seamlessly connects Claude (and other clients) to a broad range of productivity tools, including Notion, Monday, AirTable, etc.
 
